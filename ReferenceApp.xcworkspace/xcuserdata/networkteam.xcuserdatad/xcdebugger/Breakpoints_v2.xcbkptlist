@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "C672D5C4-163D-4E3E-BD14-906DD7D37DDB"
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "87BC7AFD-8409-4678-93EB-E74BE96FD74B"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ReferenceApp/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "126"
+            endingLineNumber = "126"
+            landmarkName = "unknown"
+            landmarkType = "0">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "AC2890BA-0B27-44AF-8FDD-E1E7AFBF6EA0"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ReferenceApp/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "124"
+            endingLineNumber = "124"
+            landmarkName = "unknown"
+            landmarkType = "0">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "D7E71170-2DC3-45AE-91E4-09DD0FB62ED7"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ReferenceApp/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "7"
+            endingLineNumber = "7"
+            landmarkName = "updateOverlayFrame(value:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "EABD2776-0BB4-484E-A042-22BC5F746A35"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Pods/TapppPanelLibrary/TapppPanelLibrary/BaseClass.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "99"
+            endingLineNumber = "99"
+            landmarkName = "checkPanelDataParam(panelData:currView:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "EABD2776-0BB4-484E-A042-22BC5F746A35 - 7718bb9d4ef91dee"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TapppPanelLibrary.BaseClass.checkPanelDataParam(panelData: Swift.Optional&lt;Swift.Dictionary&lt;Swift.String, Any&gt;&gt;, currView: Swift.Optional&lt;__C.UIView&gt;) -&gt; TapppPanelLibrary.ValidationState"
+                  moduleName = "TapppPanelLibrary"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/networkteam/Desktop/GitReference/iOSReferenceApp/Pods/TapppPanelLibrary/TapppPanelLibrary/BaseClass.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "99"
+                  endingLineNumber = "99"
+                  offsetFromSymbolStart = "1840">
+               </Location>
+               <Location
+                  uuid = "EABD2776-0BB4-484E-A042-22BC5F746A35 - 7718bb9d4ef91dee"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TapppPanelLibrary.BaseClass.checkPanelDataParam(panelData: Swift.Optional&lt;Swift.Dictionary&lt;Swift.String, Any&gt;&gt;, currView: Swift.Optional&lt;__C.UIView&gt;) -&gt; TapppPanelLibrary.ValidationState"
+                  moduleName = "TapppPanelLibrary"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/networkteam/Desktop/GitReference/iOSReferenceApp/Pods/TapppPanelLibrary/TapppPanelLibrary/BaseClass.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "99"
+                  endingLineNumber = "99"
+                  offsetFromSymbolStart = "1816">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>

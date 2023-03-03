@@ -1,0 +1,37 @@
+{
+  "name": "TapppPanelLibrary",
+  "version": "1.4.9",
+  "summary": "A CocoaPods library written in Swift",
+  "description": "This will be test description for inmplememting pod file.",
+  "homepage": "https://github.com/ravimaru2022/Tappp_Panel_library.git",
+  "license": "MIT",
+  "authors": {
+    "ravimaru2022": "ravi.maru@tudip.com"
+  },
+  "platforms": {
+    "ios": "13.0"
+  },
+  "swift_versions": "4.2",
+  "source": {
+    "git": "https://github.com/ravimaru2022/Tappp_Panel_library.git",
+    "tag": "1.4.9"
+  },
+  "source_files": "TapppPanelLibrary/**/*.{h,m,swift}",
+  "resources": "TapppPanelLibrary/**/*.{png, json, html, ico, map, ttf, js}",
+  "resource_bundles": {
+    "dist": [
+      "TapppPanelLibrary/dist/*.js",
+      "TapppPanelLibrary/dist/*.txt",
+      "TapppPanelLibrary/dist/*.map",
+      "TapppPanelLibrary/dist/*.html"
+    ]
+  },
+  "ios": {
+    "dependencies": {
+      "Sentry": [
+
+      ]
+    }
+  },
+  "swift_version": "4.2"
+}

@@ -1,0 +1,6 @@
+framework module TapppPanelLibrary {
+  umbrella header "TapppPanelLibrary-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,36 @@
+PODS:
+  - Sentry (8.2.0):
+    - Sentry/Core (= 8.2.0)
+    - SentryPrivate (= 8.2.0)
+  - Sentry/Core (8.2.0):
+    - SentryPrivate (= 8.2.0)
+  - SentryPrivate (8.2.0)
+  - TapppPanelLibrary (1.4.9):
+    - Sentry
+
+DEPENDENCIES:
+  - TapppPanelLibrary (from `https://github.com/ravimaru2022/Tappp_Panel_library`, tag `1.4.9`)
+
+SPEC REPOS:
+  trunk:
+    - Sentry
+    - SentryPrivate
+
+EXTERNAL SOURCES:
+  TapppPanelLibrary:
+    :git: https://github.com/ravimaru2022/Tappp_Panel_library
+    :tag: 1.4.9
+
+CHECKOUT OPTIONS:
+  TapppPanelLibrary:
+    :git: https://github.com/ravimaru2022/Tappp_Panel_library
+    :tag: 1.4.9
+
+SPEC CHECKSUMS:
+  Sentry: cf1d35c866266da58964fe7b62526bda93ffcb38
+  SentryPrivate: 2909bcc7b19a827b49e9bde0e56116b08d40dfdf
+  TapppPanelLibrary: 114a36bc83a78fe4eb0cc314fb0e395183c2904f
+
+PODFILE CHECKSUM: d5aafc63b2eae9755a0249d3c17c3a0984ac1f95
+
+COCOAPODS: 1.11.3
